@@ -1,0 +1,44 @@
+
+
+
+*{  
+    
+    font-family : "Comic Sans MS";
+      justify-content: space-between
+    
+   
+}
+h2{
+    font-family:"Verdana";
+    display:flex;
+    justify-content:center
+    
+}  
+h3{
+    color:rgb(108, 145, 231);
+ 
+    text-align: left;
+  }
+p{
+   font-size:20px;
+   background-color: aqua;
+    font-family:"Verdana";
+    justify-content: space-between
+}
+
+li{
+  
+    font: size 20px;px;
+   
+     font-family:"Verdana";
+     justify-content: space-between;
+     flex-wrap:wrap;
+    
+
+}
+.animal{
+  background-color:rgba(245, 245, 220, 0.938) ;
+      margin-bottom: 50px;
+      border: dashed;
+
+}
